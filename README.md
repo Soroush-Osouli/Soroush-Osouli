@@ -44,10 +44,8 @@
 
 ## 📫 Connect with Me
 <p>
-  <a href="mailto:soroush.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox&logoColor=white"/></a>
+  <a href="mailto:soroushwp.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://soroush-osouli.ir"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox&logoColor=white"/></a>
 </p>
 
 ---
