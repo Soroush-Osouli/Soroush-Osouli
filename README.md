@@ -35,29 +35,20 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=soroush&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=soroush&theme=radical" />
-</p>
-
----
-
 ### 📫 How to Reach Me
 
 - 📧 Email: `soroushwp.dev@gmail.com`
 - 🌐 Portfolio: [www.soroush-osouli.ir]
-- 💬 Telegram : [Not Yet]
-- 🌍 LinkedIn : [Not Yet]
+- 💬 Telegram : [Not Yet..]
+- 🌍 LinkedIn : [Not Yet...]
 
 ---
 
 ### ✨ Finally
 
 - 📚 Self-Learner
-- 🤝 Open to collaboration on real-world projects
-- 🕹️ Love Learning at all cost.
+- 🤝 Love To Freelance
+- 🕹️ Also A Gamer...😄
 
 ---
 
