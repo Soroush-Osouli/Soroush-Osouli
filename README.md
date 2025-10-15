@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Soroush</h1>
-<h3 align="center">A passionate Full-Stack Web Developer from Tehran, Iran 🇮🇷</h3>
+<h3 align="center">A Modern Full-Stack Web Developer from Tehran, Iran 🇮🇷</h3>
 
 ---
 
