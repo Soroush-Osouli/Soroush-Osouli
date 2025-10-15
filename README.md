@@ -43,18 +43,18 @@
 
 ### 📫 How to Reach Me
 
-- 📧 Email: `youremail@example.com`
-- 🌐 Portfolio: [Coming Soon]
-- 💬 Telegram / Instagram / LinkedIn: [Coming Soon]
+- 📧 Email: `soroushwp.dev@gmail.com`
+- 🌐 Portfolio: [www.soroush-osouli.ir]
+- 💬 Telegram : [Not Yet]
+- 🌍 LinkedIn : [Not Yet]
 
 ---
 
-### ✨ A Bit More
+### ✨ Finally
 
-- 🧩 Problem Solver
 - 📚 Self-Learner
 - 🤝 Open to collaboration on real-world projects
-- 🕹️ Passionate about building meaningful digital experiences
+- 🕹️ Love Learning at all cost.
 
 ---
 
