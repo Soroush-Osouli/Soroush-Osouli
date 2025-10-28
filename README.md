@@ -1,55 +1,32 @@
-<h1 align="center">Hi there 👋, I'm Soroush</h1>
-<h3 align="center">A Modern Full-Stack Web Developer from Tehran, Iran 🇮🇷</h3>
+![Header](https://s34.picofile.com/file/8487729384/banner.png)
 
----
+# Hi There , I'm Soroush 🌐
 
-### 🧑‍💻 About Me
+### Full-Stack Web Developer from Iran.
 
-- 💻 I’m a **Full-Stack Web Developer**, with a stronger focus on **Front-End**
-- ⚡ I create **Fast ⚡, Native 🎯, Responsive 📱, and User-Friendly 🌐** websites and backends
-- 🌍 Based in **Tehran, Iran**
-- 🧠 Constantly learning & evolving in the tech world
 
----
+## About Me
 
-### 🚀 Technologies & Tools I Use
+- 🔭 always interested to learn...
+- 🌱 A Dev Since 13yo...
+- 👯 Good at Group Works...
+- 💬 curios to new technologies...
 
-#### 🌐 Front-End
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![TailWindCss](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
+## Skills
 
-#### 🛠️ Back-End
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge)
 
-#### 🗃️ Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 
----
+![Badge](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![Badge](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Badge](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![Badge](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Badge](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Badge](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Badge](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) ![Badge](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Badge](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) ![Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 
-### 📫 How to Reach Me
+## GitHub Stats
 
-- 📧 Email: `soroushwp.dev@gmail.com`
-- 🌐 Portfolio: [www.soroush-osouli.ir]
-- 💬 Telegram : [Not Yet..]
-- 🌍 LinkedIn : [Not Yet...]
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Soroush-Osouli&show_icons=true&theme=radical)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soroush-Osouli&layout=compact&theme=radical)
 
-### ✨ Finally
 
-- 📚 Self-Learner
-- 🤝 Love To Freelance
-- 🕹️ Also A Gamer...😄
+## Contact Me
 
----
+📧 Email: [soroushwp.dev@gmail.com](mailto:soroushwp.dev@gmail.com)
 
-<h4 align="center">🚀 Dont Forget To Star! 🌟</h4>
+🌐 Website: [https://soroush-osouli.ir](https://soroush-osouli.ir)
