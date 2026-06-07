@@ -3,7 +3,11 @@
 I'm 14, I build stuff with modern tools. Clean interfaces, fast websites, solid code.
 
 **Stack**
-`JavaScript` `PHP` `React` `Next.js` `Tailwind CSS` `WordPress` `Git` `Vercel`
+`Html` `Css` `JavaScript` `React` `TailWindCss`
+
+`PHP` `WordPress` `Node.js`
+
+`Git` `Github` `Vercel`
 
 ---
 
