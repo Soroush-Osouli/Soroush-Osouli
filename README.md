@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" width="120" style="border-radius: 50%;" alt="avatar" />
-  <h1>Yo, I'm <strong>Your Name</strong> 👊</h1>
+  <h1>Hi, I'm <strong>Soroush</strong> 👋</h1>
   <p>14 • Builder • JS / PHP / React • Shipping with Vercel</p>
 </div>
 
