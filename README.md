@@ -4,7 +4,7 @@ I'm 14, I build stuff with modern tools. Clean interfaces, fast websites, solid 
 
 **Skills**
 
-`Html` `Css` `JavaScript` `React` `TailWindCss`
+`Html` `Css` `JavaScript` `TypeScript` `React` `TailWindCss`
 
 `PHP` `WordPress` `Node.js`
 
